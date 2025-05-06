@@ -1,0 +1,19 @@
+# Datos
+data/raw/*
+data/interim/*
+data/processed/*
+*.csv
+*.xlsx
+*.parquet
+
+# Entornos
+.env
+*.pyc
+__pycache__/
+
+# Jupyter y VS Code
+.ipynb_checkpoints
+.vscode/
+
+# Otros
+.DS_Store
