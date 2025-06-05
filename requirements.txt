@@ -4,3 +4,5 @@
 requests==2.28.0
 pandas==1.5.3
 numpy==1.23.5
+ftfy==4.4.1
+
