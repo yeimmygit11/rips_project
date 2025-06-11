@@ -9,5 +9,8 @@ matplotlib==3.6.3
 seaborn==0.12.2
 plotly==5.13.1
 nbformat==5.7.0
+folium==0.14.0
+scikit-learn==1.2.2
+umap-learn==0.5.3
 
 
